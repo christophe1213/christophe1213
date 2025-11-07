@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JAOSOA Thierry Christophe</h1>
 <h3 align="center">A passionate frontend developer from Madagascar</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-theta-jet-56.vercel.app/](https://portfolio-theta-jet-56.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://christophe-jaosoa.vercel.app/](https://christophe-jaosoa.vercel.app//)
 
 - 📫 How to reach me **christophe1213.com@gmail.com**
 
